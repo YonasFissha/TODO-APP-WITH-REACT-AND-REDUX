@@ -1,4 +1,4 @@
-# TO DO APP with React
+# TO DO APP with React and Redux
 
 ## My Goal
 
