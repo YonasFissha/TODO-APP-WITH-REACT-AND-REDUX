@@ -4,7 +4,7 @@
 
 The objective of this project is to incorporate redux in react application. I'll be using React as well as react redux to manage my state.
 
-## What you will create
+## What will I create
 
 I am going to create a todo application
 
